@@ -1,0 +1,16 @@
+Training Information
+====================
+Training completed: 2025-08-14 00:46:49
+Host: Joowon
+GPU: NVIDIA GeForce RTX 3060 Ti
+Repository: https://github.com/Joowonoil/channel-estimation
+Commit: 7b5c6709
+Model name: Large_estimator_v4_base_final
+Upload timestamp: 20250814_004648
+
+Configuration:
+- Learning rate: 0.0001
+- Max iterations: 100
+- Batch size: 32
+- Model architecture: v4 (LoRA compatible)
+- WandB project: DNN_channel_estimation_v4_base
