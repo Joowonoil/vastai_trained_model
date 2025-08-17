@@ -1,0 +1,16 @@
+Training Information
+====================
+Training completed: 2025-08-17 17:07:02
+Host: Joowon-Lab2
+GPU: NVIDIA GeForce RTX 4080 SUPER
+Repository: https://github.com/Joowonoil/channel-estimation
+Commit: 8c53d4e5
+Model name: Large_estimator_v4_to_InF_optimized
+Upload timestamp: 20250817_170701
+
+Configuration:
+- Learning rate: 0.0001
+- Max iterations: 60000
+- Batch size: 32
+- Model architecture: v4 (LoRA compatible)
+- WandB project: DNN_channel_estimation_InF_LoRA_Transfer
